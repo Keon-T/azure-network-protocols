@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Active directory
 - Remote desktop
-- Security grouG
+- Security group
 
 
 <h2>Actions and Observations</h2>
